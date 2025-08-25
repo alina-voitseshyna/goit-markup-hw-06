@@ -271,10 +271,13 @@
   letter-spacing: 0.02em;
 }
 
+/* footer */
+
 .page-footer {
   background-color: #2e2f42;
   padding: 100px 0;
 }
+
 .footer-logo .logo-part {
   color: #f4f4fd;
 }
@@ -335,12 +338,6 @@
   display: flex;
   justify-content: center;
 }
-
-/*.subscribe-container {
-display: flex;
-margin: auto;
-flex-direction: column;
-gap: 16px;*/
 
 .subscribe-text {
   display: block;
